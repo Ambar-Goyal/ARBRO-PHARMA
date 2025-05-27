@@ -43,6 +43,8 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 | Page | Preview |
 |------|---------|
 | **Dashboard** | ![Dashboard](screenshots/dashboard.png) |
+| **Filter by Status** | ![Filter by Status](screenshots/FILTER_BY_STATUS.png) |
+| **Filter by Name** | ![Filter by Name](screenshots/FILTERBYNAME.png) |
 | **Modal (Add/Edit)** | ![Modal](screenshots/Modal.png) |
 | **Toggled Dashboard (Dark Mode)** | ![Toggled Dashboard](screenshots/toggled_dashboard.png) |
 | **Toggled Modal (Dark Mode)** | ![Toggled Modal](screenshots/ToggledModal.png) |
