@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧪 YLIMS Sample Management Dashboard
 
 A responsive **Sample Management Dashboard** built with **React.js** for simulating a Laboratory Information Management System (LIMS) — created for **Arbro Pharmaceuticals**.
@@ -69,3 +70,6 @@ install the node modules using npm install
 
    ```bash
       
+=======
+# ARBRO-PHARMA
+>>>>>>> 216cfafda544659e8d4baf74c2bf7711946eb30f
