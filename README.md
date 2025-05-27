@@ -24,12 +24,12 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 - Supports filtering, searching, sorting, and pagination
 - Inline status editing
 
-### 📝 Add/Edit Modal
+### Add/Edit Modal
 - Add or edit sample records
 - Fields: Name, Type, Collected Date, Status, Description
 - Validation for required fields and date logic
 
-### 📌 Other Pages
+### Other Pages
 - **About Us** – Project/Company overview  
 - **Contact** – Contact form/info  
 - **Support** – FAQs/help content  
@@ -72,4 +72,4 @@ install the node modules using npm install
       
 =======
 # ARBRO-PHARMA
->>>>>>> 216cfafda544659e8d4baf74c2bf7711946eb30f
+
