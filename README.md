@@ -38,6 +38,8 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 > Screenshots are located in the `screenshots/` folder in the root directory.
 
 | Page | Preview |
@@ -52,8 +54,8 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 | **About Us** | ![About Us](screenshots/AboutPage.png) |
 | **Contact** | ![Contact](screenshots/ContactPage.png) |
 | **Support** | ![Support](screenshots/Support.png) |
+| **Mobile View** | ![Mobile View](screenshots/mobileView.png) |
 
----
 
 ##  Getting Started
 
