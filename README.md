@@ -13,7 +13,8 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 -  Dynamic sample table with **search, filter, sort, pagination**  
 -  Add/Edit Modal with validations  
 -  Inline status updates with optimistic UI   
--  Fully responsive and mobile-friendly  
+-  Fully responsive and mobile-friendly
+-  used ThemeProvider for light/dark mode toggeling
 
 ---
 
