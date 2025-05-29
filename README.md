@@ -1,26 +1,31 @@
-<<<<<<< HEAD
 # 🧪 YLIMS Sample Management Dashboard
 
 A responsive **Sample Management Dashboard** built with **React.js** for simulating a Laboratory Information Management System (LIMS) — created for **Arbro Pharmaceuticals**.
 
 ---
 
-##  Features
+## 🌐 Deployment
 
--  React Functional Components + Hooks  
--  Tailwind CSS with professional gradient themes  
--  Routing via React Router (`Home`, `About`, `Contact`, `Support`)  
--  Dynamic sample table with **search, filter, sort, pagination**  
--  Add/Edit Modal with validations  
--  Inline status updates with optimistic UI   
--  Fully responsive and mobile-friendly
--  used ThemeProvider for light/dark mode toggeling
+Access the live app here: [arbro-pharma.vercel.app](https://arbro-pharma.vercel.app/)
 
 ---
 
-##  Pages Overview
+## Features
 
-###  Dashboard (Home)
+- React Functional Components + Hooks  
+- Tailwind CSS with professional gradient themes  
+- Routing via React Router (`Home`, `About`, `Contact`, `Support`)  
+- Dynamic sample table with **search, filter, sort, pagination**  
+- Add/Edit Modal with validations  
+- Inline status updates with optimistic UI  
+- Fully responsive and mobile-friendly  
+- Used ThemeProvider for light/dark mode toggling  
+
+---
+
+## Pages Overview
+
+### Dashboard (Home)
 - Displays sample records
 - Supports filtering, searching, sorting, and pagination
 - Inline status editing
@@ -36,8 +41,6 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 - **Support** – FAQs/help content  
 
 ---
-
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
@@ -57,24 +60,10 @@ A responsive **Sample Management Dashboard** built with **React.js** for simulat
 | **Support** | ![Support](screenshots/Support.png) |
 | **Mobile View** | ![Mobile View](screenshots/mobileView.png) |
 
+---
 
-##  Getting Started
+## Getting Started
 
-. **Clone the repository:**
-
-##  GitHub Repository
-
-[Ambar-Goyal/ARBRO-PHARMA](https://github.com/Ambar-Goyal/ARBRO-PHARMA)
-
-
-## Install dependencies:
-install the node modules using npm install
-
-## Start the development server:
-      npm run dev 
-
-   ```bash
-      
-=======
-# ARBRO-PHARMA
-
+### Clone the repository:
+```bash
+git clone https://github.com/Ambar-Goyal/ARBRO-PHARMA
